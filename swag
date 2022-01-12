@@ -1,0 +1,26 @@
+<HTML> <TITLE> Первые стихи </Title>
+<BODY>
+<p align=center> Привет! Это моя первая страничка!
+
+<H1>
+<p align=left>  
+Меня зовут Антон. 
+</H1>
+<H2>
+<p align=right> 
+Я учусь в 11 классе 
+</H2>
+<H3>
+<p align=center>
+Это моя любимая песенка 
+</H3> 
+<p align=left> В лесу родилась ёлочка.
+<p align=left> В лесу она росла.
+<p align=right> Зимой и летом стройная,
+<p align=right> Зеленая была.
+<p align=left> Метель ей пела песенку:
+<p align=left> "Спи, елочка, бай-бай"
+<p align=center> Мороз снежком укутывал:
+<p align=center> "Смотри не замерзай!"
+</BODY>
+</HTML>
